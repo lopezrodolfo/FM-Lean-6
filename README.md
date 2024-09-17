@@ -1,4 +1,4 @@
-# Isomorphisms and Equivalence Relations
+# Isomorphisms and Equivalence Relations in Lean3
 
 This Lean project explores concepts related to isomorphisms, equivalence relations, and logical equivalence. It includes implementations of various mathematical structures and proofs.
 
